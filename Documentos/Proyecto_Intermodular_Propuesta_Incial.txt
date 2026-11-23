@@ -1,0 +1,57 @@
+# 🎲 Roll&Quest — Tu campaña, tu grupo, tu aventura
+
+**Tipo de proyecto:** Desarrollo Web
+
+## 1. Título
+
+Roll&Quest — Tu campaña, tu grupo, tu aventura
+
+## 2. Descripción
+
+**Roll&Quest** es una aplicación web colaborativa destinada a la organización y gestión de campañas de juegos de rol de mesa.
+
+La plataforma permitirá a los usuarios crear sus propias campañas o unirse a las de otros jugadores, disponiendo de un espacio compartido para gestionar personajes, participantes, sesiones, misiones y notas relacionadas con el desarrollo de la aventura.
+
+Se diferenciarán dos roles dentro de cada campaña: **director de juego y jugador**, con funcionalidades y permisos adaptados a cada uno. Los directores podrán administrar sus campañas y organizar la información, mientras que los jugadores podrán gestionar sus personajes y consultar los contenidos compartidos.
+
+La aplicación será independiente de un sistema de rol concreto, por lo que podrá utilizarse con diferentes juegos y ambientaciones.
+
+## 3. Justificación y finalidad
+
+La organización de una campaña de rol implica coordinar participantes, programar sesiones y mantener actualizada una gran cantidad de información. Habitualmente, estos contenidos se encuentran dispersos entre aplicaciones de mensajería, documentos y otras herramientas, lo que dificulta su consulta y seguimiento.
+
+**Roll&Quest nace para centralizar esta información en un entorno accesible, intuitivo y organizado**, facilitando la colaboración entre los integrantes de una campaña.
+
+Su finalidad es simplificar las tareas de organización para que jugadores y directores puedan dedicar más tiempo a disfrutar de sus aventuras.
+
+## 4. Objetivos generales
+
+- Diseñar y desarrollar una aplicación web funcional, responsive y accesible desde diferentes dispositivos.
+- Implementar un sistema de registro, inicio de sesión y gestión de usuarios.
+- Permitir la creación, edición y administración de campañas de rol.
+- Gestionar la incorporación de participantes y establecer permisos diferenciados para directores de juego y jugadores.
+- Facilitar la creación y gestión de personajes mediante perfiles con información básica.
+- Permitir la planificación de sesiones y el registro de sus resúmenes.
+- Organizar misiones, notas y acontecimientos relevantes de cada campaña.
+- Implementar formularios interactivos, validaciones y consultas dinámicas.
+- Desarrollar la lógica de negocio y gestionar el almacenamiento de la información mediante una base de datos relacional.
+- Aplicar medidas de seguridad para proteger los datos y controlar el acceso a las funcionalidades.
+- Utilizar herramientas de desarrollo colaborativo, control de versiones y pruebas.
+- Desplegar la aplicación en un entorno web para su utilización desde un navegador.
+
+## 5. Recursos a utilizar
+
+Para el desarrollo de **Roll&Quest** se utilizarán las siguientes tecnologías y herramientas:
+
+- **HTML5:** estructura y organización del contenido de las páginas web.
+- **CSS3:** diseño visual, estilos y adaptación de la interfaz a diferentes dispositivos.
+- **JavaScript:** interactividad, validación de formularios, manipulación dinámica del contenido y comunicación asíncrona con el servidor.
+- **PHP:** desarrollo del backend, gestión de la lógica de negocio, autenticación de usuarios, permisos y operaciones sobre los datos.
+- **MySQL:** sistema gestor de bases de datos relacional para almacenar usuarios, campañas, personajes, sesiones y demás información de la aplicación.
+- **Apache:** servidor web encargado de atender las peticiones y ejecutar la aplicación PHP.
+- **XAMPP:** entorno de desarrollo local que integra Apache, PHP y un sistema de base de datos compatible con MySQL, facilitando las pruebas durante el desarrollo.
+- **Visual Studio Code:** editor de código para el desarrollo y mantenimiento de la aplicación.
+
+Además, se utilizarán **Git y GitHub** para el control de versiones y la coordinación del trabajo entre los integrantes del equipo, junto con herramientas de pruebas y documentación.
+
+La aplicación seguirá una arquitectura cliente-servidor, utilizando PHP para procesar las peticiones, MySQL para la persistencia de datos y HTML5, CSS3 y JavaScript para la interfaz de usuario.
